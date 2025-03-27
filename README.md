@@ -3,20 +3,28 @@ Overview
 The Word Counter App is a simple and interactive React-based tool that allows users to count the number of words, letters, and paragraphs in a given text. It also provides options to convert text to uppercase and lowercase.
 
 Features
+
 ✅ Count words, letters, and paragraphs in real-time
+
 ✅ Convert text to uppercase and lowercase
+
 ✅ Live preview of entered text
+
 ✅ Responsive and user-friendly UI
 
 
 1. Clone the Repository
 
 git clone https://github.com/your-username/react-word-counter.git
+
 cd react-word-counter
+
 2. Install Dependencies
 npm install
-3. Start the Development Server
+
+4. Start the Development Server
 npm start
+
 The app will be available at http://localhost:3000/ 🚀
 
 Usage
@@ -30,6 +38,7 @@ Preview your formatted text below the input area.
 
 Project Structure
 
+
 /react-word-counter
 │── /src
 │   │── components/
@@ -39,6 +48,7 @@ Project Structure
 │── /public
 │── package.json       # Project dependencies
 │── README.md          # Project documentation
+
 Technologies Used
 React.js – Frontend framework
 
