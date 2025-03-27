@@ -34,25 +34,6 @@ The app will be available at http://localhost:3000/ 🚀
 
 
 
-Project Structure:
-
-/react-word-counter
-
-│── /src
-
-│   │── components/
-
-│   │   ├── Counter.js  # Main component for text processing
-
-│   │── App.js         # Root component
-
-│   │── index.js       # Entry point
-
-│── /public
-
-│── package.json       # Project dependencies
-
-│── README.md          # Project documentation
 
 
 
